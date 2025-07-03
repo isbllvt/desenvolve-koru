@@ -20,12 +20,6 @@ Este repositório reúne os **projetos** e **atividades** desenvolvidos durante 
 Este repositório está em constante evolução.  
 Novos projetos, correções e melhorias serão adicionados à medida que o curso avança.
 
-
-## 🤝 Conecte-se comigo
-
-- ✉️ Seu e-mail: [isav.mendonca@email.com]  
-- 💼 LinkedIn: [linkedin.com/in/isav-mendonça](www.linkedin.com/in/isav-mendonça)  
-
 ---
 
 **#Desenvolve #Koru #GrupoBoticário #Programação #DevIniciante**
