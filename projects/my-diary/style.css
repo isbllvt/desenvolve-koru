@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3e314e;
+  color: #eee;
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+header h1 {
+  font-family: "Gloria hallelujah", cursive;
+  font-size: 2rem;
+  text-align: center;
+  color: #fcd9ff;
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #9ac3ff;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.card {
+  background-color: #342b3d;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  position: relative;
+}
+
+.card time {
+  background-color: #d0d0e7;
+  color: #333;
+  font-size: 0.9rem;
+  padding: 5px 12px;
+  border-radius: 20px;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+}
+
+.selo {
+  display: inline-block;
+  background-color: #f26ba3;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  margin-top: 15px;
+}
+
+img {
+  width: 100%;
+  max-width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+footer {
+  text-align: center;
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 1px solid #444;
+  color: #aaa;
+}
+
+footer a {
+  color: #9ac3ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 800px;
+  width: 100%;
+  padding: 20px;
+}
+
+.galeria {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.galeria img {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
